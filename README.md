@@ -1,2 +1,2 @@
 # Blackdock
-A Dockerfile for use in CTF's.
+Dockerfiles for use in CTF's.
